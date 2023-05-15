@@ -2,7 +2,15 @@
 
 
 # 💫 About Me:
-Junior flutter developer.<br>Electronics and communication fresh graduate engineer
+An electronics and communication engineer with a passion for mobile
+development and a background in graphic design. Currently working as a
+junior Android developer using Flutter and Kotlin. Committed to creating
+high-quality, user-friendly mobile applications and constantly seeking
+opportunities to expand my technical skills and knowledge. Strong
+problem-solving abilities and a team player with a desire to contribute to
+the success of development projects. Previously honed skills in graphic
+design, including social media design, brand identity design, and video
+editing.
 
 
 ## 🌐 Socials:
