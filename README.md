@@ -2,10 +2,12 @@
 
 
 # 💫 About Me:
-- An electronics and communication engineer with a passion for mobile development and a background in graphic design.
-- Currently working as a junior Android developer using Flutter and Kotlin. Committed to creating high-quality, user-friendly mobile applications and constantly seeking opportunities to expand my technical skills and knowledge.
-- Strong problem-solving abilities and a team player with a desire to contribute to the success of development projects.
-- Previously honed skills in graphic design, including social media design, brand identity design, and video editing.
+- Dynamic Full-Stack Web Developer transitioning from mobile development, with a strong focus on creating engaging user interfaces and delivering high-quality digital experiences.
+- Proficient in Flutter and TypeScript, with growing expertise in front-end technologies including HTML, CSS, JavaScript, and React.
+- Experienced in backend development using NodeJS and FastAPI.
+- 3+ years of graphic design experience in social media design, brand identity, and video editing, which enhances my visual communication and UX design skills.
+- Strong problem-solving abilities and a collaborative team player, committed to continuous learning and contributing creative solutions to innovative web projects.
+- Eager to leverage my diverse background in both mobile and web development to create visually appealing, user-friendly web applications.
 
 
 ## 🌐 Socials:
